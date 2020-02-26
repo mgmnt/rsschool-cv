@@ -1,1 +1,1 @@
-#rsschool-cv
+https://mgmnt.github.io/rsschool-cv/cv
