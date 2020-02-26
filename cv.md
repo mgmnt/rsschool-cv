@@ -18,6 +18,7 @@
 - bash-scripts
 - linux
 - QA
+- Algorithms
 
 ## Code example:
 ```
