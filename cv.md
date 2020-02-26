@@ -33,6 +33,7 @@ fun main(args: Array<String>){
     * Hardware Setup
     * Zabbix Monitoring
     * Basic programming
+    * IP-telephony
     
 ## Education:
   * Military Academy of the Republic of Belarus (2012-2017).			Faculty: Communication and Automated Control Systems.
